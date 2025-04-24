@@ -31,11 +31,11 @@ This is a fully functional E-commerce Flutter app that integrates with a remote 
 
 ![Image](https://github.com/user-attachments/assets/aa74e162-fa12-496f-bb23-29318fb0dfed)
 
-![Image](https://github.com/user-attachments/assets/0dbab487-dfbb-4062-906f-ecaf378133ac)
+![Image](https://github.com/user-attachments/assets/8fb5cb23-7881-4198-83b1-4fe094284cde)
 
 ![Image](https://github.com/user-attachments/assets/a156acd9-6dcf-4e88-9ee0-397690a66f74)
 
-![Image](https://github.com/user-attachments/assets/39d055ed-6b93-4d02-a61f-a39a476ea829)
+![Image](https://github.com/user-attachments/assets/a45b6fde-b807-44ce-a2ac-ec242fc59868)
 
 ## 🏠 Home Screen
 
@@ -55,7 +55,7 @@ This is a fully functional E-commerce Flutter app that integrates with a remote 
 
 ## 🧑‍💼 Profile Screen
 
-![Image](https://github.com/user-attachments/assets/8a4f8a22-ea2b-4253-8c99-86cd98048e73)
+![Image](https://github.com/user-attachments/assets/f72e6f02-b7d3-4369-b75c-32ac0cb9f4a6)
 
 ## 🔍 Search Screen
 
