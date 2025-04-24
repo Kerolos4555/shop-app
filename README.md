@@ -18,7 +18,7 @@ This is a fully functional E-commerce Flutter app that integrates with a remote 
 - 🧑‍💼 User Authentication: Sign up and log in using email and password
 - 🛍️ Product Listing: Browse and explore products from the API
 - ❤️ Favorites Management: Save and unsave products to your favorites list
-- ✏️  Profile Update: Users can update their email address from the profile screen
+- ✏️  Profile Update: Users can update their information from the profile screen
 - 👋 Onboarding Flow: First-time users are guided through an onboarding experience to introduce key features
 
 ## 📱 Screens
